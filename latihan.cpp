@@ -217,7 +217,7 @@ void menu(){
 						cout<<endl;
 					}
 				}
-				else //lanjut bagian 222 "else"
+				else
 					cout<<"tidak tersedia";
 					
 					cout<<"\n1. kembali ke menu utama"
